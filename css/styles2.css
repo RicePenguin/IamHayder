@@ -103,7 +103,8 @@ p {
   margin: 0;
   font-weight: normal;
   position: relative;
-  left: 10%
+  left: 10%;
+  width: inline-block;
 }
 
 .line1 {
