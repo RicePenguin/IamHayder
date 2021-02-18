@@ -104,7 +104,7 @@ p {
   font-weight: normal;
   position: relative;
   left: 10%;
-  width: inline-block;
+  display: inline-block;
 }
 
 .line1 {
